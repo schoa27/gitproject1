@@ -1,2 +1,4 @@
 new text-file-b
 
+edit text-file-b
+
